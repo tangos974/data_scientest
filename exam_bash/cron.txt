@@ -1,0 +1,1 @@
+* * * * * ~/exam_FREMONT/exam_bash/exam.sh
